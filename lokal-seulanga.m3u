@@ -1,0 +1,123 @@
+#EXTM3U
+#--------" Lokal "--------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grjQ9pH/Pics-Art-01-10-09-06-24.png" group-title="Lokal Indonesia", Seulanga TV
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/85gfZ13X/antv.png" group-title="Lokal Indonesia",ANTV
+#http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85gfZ13X/antv.png" group-title="Lokal Indonesia",ANTV [VSN+]
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grjQ9pH/Pics-Art-01-10-09-06-24.png" group-title="Lokal Indonesia",Adu Ayam
+https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" group-title="Lokal Indonesia",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="Lokal Indonesia",Bali TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Lokal Indonesia", Chinese Drama
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/mop1QxPLWpnPidVLEoCojZeSwxE=/592x332/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2" group-title="Lokal Indonesia",Citra Bioskop
+http://tvnid.wapgem.com/vidio/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/oYQcr7MZUsKgZ0Qph-sL9DR04YU=/592x332/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra" group-title="Lokal Indonesia",Citra Dangdut
+http://tvnid.wapgem.com/vidio/11.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Lokal Indonesia",Citra Drama
+http://tvnid.wapgem.com/vidio/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/vigA4bt-GkU3XkvFutbaR9plq88=/592x332/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertain" group-title="Lokal Indonesia",Citra Entertainment
+http://tvnid.wapgem.com/vidio/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" group-title="Lokal Indonesia",DAAI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjarESxgMnxxucLaq-KU7k7i36pnfF-Q_FA&usqp=CAU" group-title="Lokal Indonesia",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="Lokal Indonesia",Global TV SD
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEhw3FZLXYVAYQsEfSX2qe7AhknimWSAV8A&usqp=CAU" group-title="Lokal Indonesia",Hi Indo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfEWwgAQFEpGmJe6svgBjUORKeYfv-kNi1Q&usqp=CAU" group-title="Lokal Indonesia",Indosiar
+http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/G1qZ6clc-IlRnTVEJ1ZEgtMTcqE=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestrea" group-title="Lokal Indonesia",JAKTV
+http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMvYpC3swe8G5eRojMPDMqawQJKauW_5lnVQ&usqp=CAU" group-title="Lokal Indonesia",JITV Jogja
+https://h1.intechmedia.net/intech/ch65.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_big.png?v=2.0.0.13" group-title="Lokal Indonesia",Kompas TV
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="Lokal Indonesia",MNCTV SD
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJx5Z-5DEz1hXR0mhPqEFGcY8jE6PT8mcCAA&usqp=CAU" group-title="Lokal Indonesia",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/metrotv.png" group-title="Lokal Indonesia",Metro TV
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="Lokal Indonesia",NET TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="Lokal Indonesia",Nusantara TV
+https://v6.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRARkC6N1tZJB3kbA4qWzCt9smWilnmRBkLw&usqp=CAU" group-title="Lokal Indonesia",O Channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal Indonesia",RCTI SD
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal Indonesia",RCTI HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="Lokal Indonesia",Ruang Terampil
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDHIXfsDUi737RwQ26sl57IOX150Kbxgkpww&usqp=CAU" group-title="Lokal Indonesia",SCTV
+http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvU_8a1ngWnV3-nuHDl4lwQm7EAq6aVRPKZQ&usqp=CAU" group-title="Lokal Indonesia",SMTV
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREpM24b7ixRHG1f_Jr_CXn4n6zUSmWfvum4Q&usqp=CAU" group-title="Lokal Indonesia",TVOne
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png?v=2.0.0.13" group-title="Lokal Indonesia",TVRI Nasional
+https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaGn2tz0PGZuXZGqIgur1Y0pOhf_iJhBOSw&usqp=CAU" group-title="Lokal Indonesia",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="Lokal Indonesia",TRANS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13" group-title="Lokal Indonesia",Usee Photo
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e8265268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Lokal Indonesia",Usee Prime
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="Lokal Indonesia",iNews TV
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
